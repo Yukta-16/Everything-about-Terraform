@@ -14,7 +14,7 @@ On your local machine (macOS/windows) open a terminal and run:
 
 **make sure the key file is only readable**
 
-chmod 400 "<name of pem file>"
+chmod 400 "(name of pem file)"
 
 **Connect to your instance using its Public DNS:**
 
