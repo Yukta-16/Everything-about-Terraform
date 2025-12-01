@@ -9,6 +9,7 @@
 - Click Launch instance.
 
 **2) SSH into your EC2 instance**
+
 On your local machine (macOS/windows) open a terminal and run:
 
 **make sure the key file is only readable**
@@ -36,7 +37,7 @@ $ gpg --no-default-keyring \
 
 # The gpg command reports the key fingerprint:
 
-**/usr/share/keyrings/hashicorp-archive-keyring.gpg**
+/usr/share/keyrings/hashicorp-archive-keyring.gpg
 -------------------------------------------------
 pub   rsa4096 XXXX-XX-XX [SC]
 AAAA AAAA AAAA AAAA
