@@ -100,5 +100,4 @@ sudo apt update
 sudo apt-get install terraform
 ```
 
----
-
+Start learning Terraform!!
